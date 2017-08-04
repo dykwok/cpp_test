@@ -1,0 +1,6 @@
+*.vcxproj
+*.vcxproj.filters
+*.swp
+x64/
+targetver.h
+
